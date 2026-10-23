@@ -1,8 +1,4 @@
-# Nepo-Client-V1.0
-An Launcher For Play Minecraft Java Edition In Android Devices freely without any subscription with awesome features!!
-
-
-Nepo Launcher
+**# Nepo-Client-V1.0
 
 Nepo Launcher is an Android application designed to run Minecraft: Java Edition on mobile devices. Built upon the foundational work of the open-source community, it provides a streamlined way to experience the Java version of the game, complete with modding and skin support, directly on your phone.
 
@@ -48,4 +44,4 @@ Minecraft Disclaimer:
 
 ---
 
-This project is a community effort. Please respect the original developers' licenses and the intellectual property of Mojang Studios.
+This project is a community effort. Please respect the original developers' licenses and the intellectual property of Mojang Studios.**
