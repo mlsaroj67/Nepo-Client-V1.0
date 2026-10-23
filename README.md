@@ -1,4 +1,4 @@
-**# Nepo-Client-V1.0**
+**Nepo-Client-V1.0**
 
 **Nepo Launcher is an Android application designed to run Minecraft: Java Edition on mobile devices. Built upon the foundational work of the open-source community, it provides a streamlined way to experience the Java version of the game, complete with modding and skin support, directly on your phone.**
 
